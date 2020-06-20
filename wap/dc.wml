@@ -10,20 +10,18 @@
 
 <card id="berry" title="dsgn coder">
 <do type="prev" label="Voltar"><prev/></do>
-<p align="center"><big>Dsgn Coder</big> is a personal blog about web development. The project is focused to share stories, tips &amp; tricks of web development from the view of a front-end Web Developer, focused on all things HTML, CSS and Javascript.<br/><br/>
+<p><big>Dsgn Coder</big> is a personal blog about web development. The project is focused to share stories, tips &amp; tricks of web development from the view of a front-end Web Developer, focused on all things HTML, CSS and Javascript.<br/><br/>
 With the use of good front-end practices complying with modern web standards, we will embrace on a journey of web knowledge.</p>
 <p><img src="code.wbmp" alt="Coding"/></p>
-<p>---------------</p>
 <p><small>&#169; 2020 <br/>
-WML</small></p>
+WAP/WML</small></p>
 </card>
   
 <card id="contact" title="Contact">
 <do type="prev" label="back"><prev/></do>
 <p align="center"><img src="mail.wbmp" alt="Contact"/><br/><br/>Get In Touch<br/>
 dsgncoder@outlook.com</p>
-<p>---------------</p>
 <p><small>&#169; 2020 <br/>
-WML</small></p>
+WAP/WML</small></p>
 </card>
 </wml>
