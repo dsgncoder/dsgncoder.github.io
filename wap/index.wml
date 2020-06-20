@@ -9,14 +9,14 @@
 </head>
 
 <card id="home" title="dsgn coder">
-<p align="center"><img src="images/dsgncoder.wbmp" alt="dsgn coder"/><br/>
+<p align="center"><img src="dsgncoder.wbmp" alt="dsgn coder"/><br/>
 <big><b>dsgn coder</b><br/>
 <i>Back to basics of Mobile Coding</i></big></p>
 <p align="left">
 :: <a href="/wap/a.wml">dsgn coder</a><br/>
 :: <a href="#contact">contact</a><br/>
 </p><br/>
-<p><img src="images/icons/code.wbmp" alt="Coding"/></p><br/>
+<p><img src="code.wbmp" alt="Coding"/></p><br/>
 <p align="center">---------------</p>
 <p align="center"><small>&#169; 2020 <br/>
 WML</small></p>
@@ -24,7 +24,7 @@ WML</small></p>
   
 <card id="contact" title="Fale Conosco">
 <do type="prev" label="back"><prev/></do>
-<p align="center"><img src="images/icons/mail.wbmp" alt="Contact"/><br/><br/>Get In Touch<br/>
+<p align="center"><img src="mail.wbmp" alt="Contact"/><br/><br/>Get In Touch<br/>
 dsgncoder@outlook.com</p>
 <p>---------------</p>
 <p><small>&#169; 2020 <br/>
